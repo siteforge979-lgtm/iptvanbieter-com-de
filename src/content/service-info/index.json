@@ -1,0 +1,61 @@
+[
+  {
+    "id": "main",
+    "brandName": "iptvanbieter.com.de",
+    "tagline": "Erleben Sie grenzenloses Streaming mit dem besten IPTV Anbieter!",
+    "description": "iptvanbieter.com.de bietet Ihnen hochqualitatives und zuverlässiges IPTV. Genießen Sie Live-TV, Serien und Filme mit erstklassigem Service und vielfältigen Paketen für ein ultimatives Seherlebnis.",
+    "channelCount": 55000,
+    "vodCount": 90000,
+    "supportEmail": "streamonlinever@gmail.com",
+    "primaryColor": "#3B82F6",
+    "secondaryColor": "#1E40AF",
+    "siteUrl": "https://iptvanbieter-com-de.pages.dev",
+    "features": [
+      {
+        "title": "Premium TV Streaming",
+        "description": "Genießen Sie hochauflösende TV-Inhalte mit über 1000 Kanälen weltweit. Bleiben Sie mit den neuesten Nachrichten, Sportereignissen und Shows immer auf dem Laufenden.",
+        "icon": "Tv"
+      },
+      {
+        "title": "Filme und Serien On-Demand",
+        "description": "Entdecken Sie eine beeindruckende Auswahl an Filmen und Serien. Von Klassikern bis zu den neuesten Blockbustern – unser Angebot erfüllt alle Ihren Unterhaltungsbedürfnisse.",
+        "icon": "Film"
+      },
+      {
+        "title": "Benutzerfreundliche Oberfläche",
+        "description": "Unsere benutzerfreundliche Plattform ermöglicht Ihnen einfaches Navigieren und schnelles Auffinden Ihrer Lieblingsinhalte – für bahnbrechenden Fernsehgenuss.",
+        "icon": "Settings"
+      },
+      {
+        "title": "Sicheres Streaming",
+        "description": "Ihre Sicherheit hat für uns oberste Priorität. Unsere verschlüsselte Verbindung garantiert, dass Ihre Daten immer geschützt sind.",
+        "icon": "Shield"
+      },
+      {
+        "title": "Globales Angebot",
+        "description": "Mit unserem globalen IPTV-Service erhalten Sie Zugang zu internationalen Kanälen und Inhalten. Entdecken Sie Programme aus verschiedenen Kulturen und Ländern.",
+        "icon": "Globe"
+      },
+      {
+        "title": "Flexible Abo-Optionen",
+        "description": "Wählen Sie das Abo, das am besten zu Ihnen passt. Ob monatlich oder jährlich, unsere flexiblen Pakete bieten Ihnen die Freiheit, jederzeit zu wechseln oder zu pausieren.",
+        "icon": "CreditCard"
+      },
+      {
+        "title": "24/7 Kundensupport",
+        "description": "Unser engagiertes Support-Team steht Ihnen rund um die Uhr zur Verfügung, um Ihnen bei Fragen oder technischen Problemen schnell und effektiv zu helfen.",
+        "icon": "Users"
+      },
+      {
+        "title": "Multiplattform-Kompatibilität",
+        "description": "Nutzen Sie unseren IPTV-Service auf verschiedenen Geräten, seien es Smart-TVs, Tablets, Smartphones oder Computer. Ihr Entertainment – jederzeit und überall.",
+        "icon": "Play"
+      }
+    ],
+    "paymentSettings": {
+      "buttonText": "BUY NOW",
+      "paymentType": "paygate",
+      "paygateWalletAddress": "0x1e2c390ae5602f3662332061cae6c5658cd54e22"
+    }
+  }
+]
